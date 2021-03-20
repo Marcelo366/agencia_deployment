@@ -1,4 +1,4 @@
-import Sequelize from 'Sequelize';
+// import Sequelize from 'Sequelize';
 import dotenv from 'dotenv';
 
 dotenv.config({path: 'variables.env'});
